@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, change 7!
+        run: echo Hello, change 8!
         
       - name: env
         run: printenv

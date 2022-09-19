@@ -1,5 +1,5 @@
 name: Mini Pipeline
-
+# A multi file change for prebuild check
 # 'on' key contains the events which triggers build on github
 # Here, build gets triggered on pull request. Since branch is not specified, build gets triggered for every pull request
 on:
